@@ -1,8 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Antony Meshkov](https://up.htmlacademy.ru/javascript/14/user/186573).
-* Наставник: [Евгений Кузнецов]
-(https://htmlacademy.ru/profile/id89415).
+* Наставник: [Евгений Кузнецов](https://htmlacademy.ru/profile/id89415).
 
 ---
 
